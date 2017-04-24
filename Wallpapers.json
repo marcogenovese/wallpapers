@@ -1,40 +1,78 @@
 {
    "wallpapers": [
       {
-         "author": "Tom Wellington",
-         "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
-         "name": "East Branch",
-         "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+         "author": "Marco Genovese",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/GenomaB1dark.png",
+         "name": "Genoma",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/GenomaB1dark.png"
       },
       {
          "author": "Marco Genovese",
          "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Wallpaper1.png",
-         "name": "Genoma",
+         "name": "Genoma Wide",
          "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Wallpaper1.png"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-         "name":" Flamingos",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_1.png",
+         "name": "Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_1.png"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
-         "name": "Forest",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_2.png",
+         "name": "Wallpaper 2",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_2.png"
+      },{
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_3.png",
+         "name": "Wallpaper 3",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_3.png"
+      },{
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_4.png",
+         "name": "Wallpaper 4",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_4.png"
+      },{
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_5.png",
+         "name": "Wallpaper 5",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_5.png"
+      },{
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_6.png",
+         "name": "Wallpaper 6",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_6.png"
+      },{
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_7.png",
+         "name": "Wallpaper 7",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_7.png"
+      },{
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_8.png",
+         "name": "Wallpaper 8",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_8.png"
+      },{
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_9.png",
+         "name": "Wallpaper 9",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_9.png"
+      },{
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_10.png",
+         "name": "Wallpaper 10",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_10.png"
+      },{
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_11.png",
+         "name": "Wallpaper 11",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_11.png"
+      },{
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_12.png",
+         "name": "Wallpaper 12",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_12.png"
       },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
-         "name": "Tree Farm",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
-      },
-      {
-         "author":"Tom Wellington",
-         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
-         "name":"Tree Tops",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
-      }
    ]
 }
