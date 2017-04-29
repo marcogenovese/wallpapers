@@ -1,0 +1,508 @@
+{
+   "wallpapers": [
+      {
+         "author": "Marco Genovese",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Genoma.png",
+         "name": "Genoma 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Genoma.png"
+      },
+      {
+         "author": "Marco Genovese",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Genoma_2.png",
+         "name": "Genoma 2",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Genoma_2.png"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/keyguard_default_wallpaper.jpg",
+         "name": "Galaxy S8 (1)",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/keyguard_default_wallpaper.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/keyguard_default_wallpaper_blue.jpg",
+         "name": "Galaxy S8 (2)",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/keyguard_default_wallpaper_blue_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/keyguard_default_wallpaper_gold.jpg",
+         "name": "S8 (3)",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/keyguard_default_wallpaper_gold_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/keyguard_default_wallpaper_orchid.jpg",
+         "name": "S8 4",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/keyguard_default_wallpaper_orchid_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/keyguard_default_wallpaper_pink.jpg",
+         "name": "S8 5",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/keyguard_default_wallpaper_pink_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/keyguard_default_wallpaper_silver.jpg",
+         "name": "S8 6",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/keyguard_default_wallpaper_silver_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_0.jpg",
+         "name": "S8 7",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_0_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_1.jpg",
+         "name": "S8 8",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_1_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_2.jpg",
+         "name": "S8 9",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_2_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_3.jpg",
+         "name": "S8 10",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_3_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_4.jpg",
+         "name": "S8 11",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_4_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_5.jpg",
+         "name": "S8 12",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_5_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_6.jpg",
+         "name": "S8 13",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_6_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_7.jpg",
+         "name": "S8 14",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_7_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_8.jpg",
+         "name": "S8 15",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_8_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_9.jpg",
+         "name": "S8 16",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_9_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_10.jpg",
+         "name": "S8 17",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_10_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_11.jpg",
+         "name": "S8 18",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Galaxy_S8_Wallpaper_11_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_1.jpg",
+         "name": "S7 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_1_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_2.jpg",
+         "name": "S7 Wallpaper 2",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_2_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_3.jpg",
+         "name": "S7 Wallpaper 3",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_3_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_4.jpg",
+         "name": "S7 Wallpaper 4",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_4_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_5.jpg",
+         "name": "S7 Wallpaper 5",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_5_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_6.jpg",
+         "name": "S7 Wallpaper 6",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_6_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_7.jpg",
+         "name": "S7 Wallpaper 7",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_7_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_8.jpg",
+         "name": "S7 Wallpaper 8",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_8_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_9.jpg",
+         "name": "S7 Wallpaper 9",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_9_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_10.jpg",
+         "name": "S7 Wallpaper 10",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_10_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_11.jpg",
+         "name": "S7 Wallpaper 11",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_11_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_12.jpg",
+         "name": "S7 Wallpaper 12",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S7_12_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_01.png",
+         "name": "S6 Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_01_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_02.jpg",
+         "name": "S6 Wallpaper 2",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_02_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_03.jpg",
+         "name": "S6 Wallpaper 3",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_03_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_04.png",
+         "name": "S6 Wallpaper 4",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_04_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_05.png",
+         "name": "S6 Wallpaper 5",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_05_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_06.png",
+         "name": "S6 Wallpaper 6",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_06_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_07.jpg",
+         "name": "S6 Wallpaper 7",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_07_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_08.jpg",
+         "name": "S6 Wallpaper 8",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_08_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_09.png",
+         "name": "S6 Wallpaper 9",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_09_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_10.png",
+         "name": "S6 Wallpaper 10",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_10_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_11.jpg",
+         "name": "S6 Wallpaper 11",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_11_thumb.jpg"
+      },
+      {
+         "author": "Samsung Electronics",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_12.png",
+         "name": "S6 Wallpaper 12",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/S6_12_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      },
+	  {
+         "author": "HTC Corporation",
+         "url": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01.jpg",
+         "name": "Sense Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/marcogenovese/wallpapers/master/U_01_thumb.jpg"
+      }
+   ]
+}
