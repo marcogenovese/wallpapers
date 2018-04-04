@@ -1,6 +1,12 @@
 {
    "wallpapers":[
       {
+         "author":"Update",
+         "url":"https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Deprecated.png",
+         "name":"Deprecated version",
+         "thumbnail":"https://raw.githubusercontent.com/marcogenovese/wallpapers/master/Deprecated.png"
+      },
+      {
          "author":"Marco Genovese",
          "url":"https://raw.githubusercontent.com/marcogenovese/wallpapers/master/GenomaV2.png",
          "name":"Genoma (1)",
